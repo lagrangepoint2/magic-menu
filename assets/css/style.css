@@ -133,7 +133,8 @@ p a {
 }
 
 .display2 {
-  background: url('../images/marketingImage.png');
+  background: url('../images/marketingimage.png');
+  background-color: #a9a9a9;
   background-size: cover;
   background-position: center;
   /* height: 100%; */
