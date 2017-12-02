@@ -123,7 +123,7 @@ p a {
 }
 
 .display1{
-  background: url(../images/hero.png);
+  background: url('../images/hero.png');
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -133,7 +133,7 @@ p a {
 }
 
 .display2 {
-  background: url(../images/marketingImage.png);
+  background: url('../images/marketingImage.png');
   background-size: cover;
   background-position: center;
   /* height: 100%; */
