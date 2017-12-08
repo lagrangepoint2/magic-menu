@@ -132,11 +132,11 @@ p a {
   /* top: -50px; */
 }
 
-.display2 {
+.display2{
   background: url('../images/marketingImage.png');
   background-size: cover;
   background-position: center;
-  height: 100%;
+  /*height: 100%;*/
   border-bottom: 10px solid rgb(0, 0, 0);
   position: relative;
   top: -10px;
