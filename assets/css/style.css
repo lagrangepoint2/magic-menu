@@ -133,11 +133,10 @@ p a {
 }
 
 .display2 {
-	background: url('../images/hero.png');
-  /* background: url('../images/marketingimage.png'); */
+  background: url('../images/marketingimage.png');
   background-size: cover;
   background-position: center;
-  /* height: 100%; */
+  height: 100%;
   border-bottom: 10px solid rgb(0, 0, 0);
   position: relative;
   top: -10px;
